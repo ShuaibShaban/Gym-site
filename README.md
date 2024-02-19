@@ -40,7 +40,7 @@
 
 Start up the website
 
-    ```Right click on the index.html page and select opem with live server extension.
+    ```Right click on the index.html page and select open with live server extension.
     ```
 
 ## License
